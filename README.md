@@ -1,4 +1,4 @@
-# ⭐ Course Rating & Review Scoring
+# Course Rating & Review Scoring
 
 This project analyzes user ratings and reviews from an online course platform.  
 The goal is to go beyond a basic average score by applying time and user-based weighting, and also ranking user reviews more fairly.
